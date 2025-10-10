@@ -6,5 +6,7 @@
 
 ## Solutions: 
 1. Create an empathy map of the problems.
-2. Create a web/mobile app that would let students search a book and see if it is available in the library instead of physically going to the library.
+2. Create a web/mobile app design prototypein Figma that would let students search a book and see if it is available in the library instead of physically going to the library.
 3. If a student is interested in a book then send notification if the book was reserved before and comes back.
+
+[Figma design prototype](https://www.figma.com/design/8uIlMd0PWAP16LSjG6aNxB/Assignment-1?node-id=0-1&t=bqRFGGfRCe8fVw8V-1)
